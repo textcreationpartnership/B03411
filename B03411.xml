@@ -1,0 +1,415 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Information for my Lord and Lady Nairn, David Falconer of Newtoun, and Michael Balfour of Forret; against the Earl of Argyl.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03411</idno>
+            <idno type="STC">Wing F295</idno>
+            <idno type="STC">ESTC R178651</idno>
+            <idno type="EEBO-CITATION">51617669</idno>
+            <idno type="OCLC">ocm 51617669</idno>
+            <idno type="VID">175225</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175225)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2722:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Information for my Lord and Lady Nairn, David Falconer of Newtoun, and Michael Balfour of Forret; against the Earl of Argyl.</title>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>Printed in the year, 1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Refutes the allegation by the Earl of Argyll that the heirs and representatives of Lord Nairn, David Falconer and Michael Balfour should be held liable for the wrongful sentence of the former Earl of Argyll.</note>
+                  <note>Imperfect: tightly bound with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Argyll, Archibald Campbell, --  Duke of, d. 1703 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Argyll, Archibald Campbell, --  Earl of, 1629-1685.</term>
+               <term>Nairne, William, --  Baron, fl. 1690.</term>
+               <term>Nairne, --  Lady, fl. 1690.</term>
+               <term>Falconer, David, --  Sir, 1640-1686.</term>
+               <term>Balfour, Michael, --  of Forret.</term>
+               <term>Liability (Law) --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175225:1"/>
+            <p>INFORMATION FOR MY LORD AND LADY NAIRN, DAVID FALCONER OF NEWTOUN AND MICHAEL BALFOUR OF FORRET Againſt the EARL of ARGYL.</p>
+            <p>Printed in the Year, 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175225:2"/>
+            <pb facs="tcp:175225:2"/>
+            <head>INFORMATION FOR MY LORD AND LADY NAIRN, DAVID FALCONER OF NEWTOUN, AND MICHAEL BALFOUR OF FORRET. AGAINST THE EARLE OF ARGYLE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HERE is a Petition preſented by the Earl of <hi>Argyl</hi> to the high Court of <hi>Parli<g ref="char:EOLhyphen"/>ament</hi> founding upon ſeveral Acts of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> and upon the common Law, and Law of Nations, whereby it is alledged that Judges pronuncing unjuſt Sen<g ref="char:EOLhyphen"/>tences are puniſhable, and ſubſuming that the deceaſt Earle of <hi>Argyl</hi> was un<g ref="char:EOLhyphen"/>juſtly Forfeited, and deſiring that the Heirs and Repreſentatives of the Lord <hi>Nairn,</hi> Sir <hi>David Falconer</hi> of <hi>Newtoun,</hi> and Sir <hi>David Balfour</hi> of <hi>Forret,</hi> three of the Criminal Judges who pronunced the Sentence of Forfeiture, may be lyable to this Earle of <hi>Argyl,</hi> for
+<pb n="4" facs="tcp:175225:3"/>the Damage ſuſtained by that unjuſt Sentence, amounting to 6000<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pound Sterling.</p>
+            <p>This is a Claime, ſuch as was never offered before any Judicatory within this Kingdom, and is the more extraordinary, that it is preſen<g ref="char:EOLhyphen"/>ted after the deceaſe of all theſe Judges who lived and died in Honour and Credit, and the Reputation of Integrity; And it is very hard that any Stain or B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot ſhould be laid upon their Memory, in Relation to their Deportment and opinion in a Proceſs, which they themſel<g ref="char:EOLhyphen"/>ves could only have cleared, their Heirs being altogether Strangers to it.</p>
+            <p>Albeit there be ſeveral Laws and Acts of <hi>Parliament,</hi> whereby Judges are Puniſhable for doing Wrong, or Unhoneſty, or for refuſing to do Juſtice: Yet that has been a Point ſo tender, that there cannot be any precedent Inſtanced, wherein a Judge hath been purſued upon that Ground, ſo that really theſe Acts may be reckoned amongſt Old and Obſolet Laws, neither does it appear by any of them, that it was deſigned to give a Party an Intereſt to purſue for Damnages by unjuſt Sentences; but that a Party might Complain to the King and his Council; and that a Judge being found guilty might be puniſhable in his Perſon and Goods, but without any Benefit to the Party, except his Charges in the Complaint, the fine to be impoſed upon the Judge being Penal, which with all others of the like Nature doth belong to the Fisk.</p>
+            <p>The Earle of <hi>Argyl</hi> who offers the Complaint, does found the ſame upon the Claime of Right, and Reſtitution of the Forfeiture, which may be a good ground for Poſſeſſing or Affecting his Fathers Eſtate, but it were of very Dangerous Conſequence, that the Reſtitution of a Forfeiture by Act of <hi>Parliament,</hi> ſhould make the Judges obnoxious who pronunced the Sentence; this is not the firſt Reſtitution in <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> by way of Juſtice, our Records are full of the like, but none who were ever ſo reſtored, did pretend in this or any bygone Age, that the Judges who pronunced Sentence ſhould be Culpable; and if it were ſuſtained in this Caſe, there is a proſpect of Reſtoring ſeveral Hun<g ref="char:EOLhyphen"/>dreds of late Forfeitures, what then ſhould become of the Judges who pronunced theſe? Or who would undertake to ſerve as Judges under
+<pb n="5" facs="tcp:175225:3"/>any Government, if all poſterior Reductions or Impungning of their Sentence ſhould make their Eſtates lyable to Damnages, and what is now Acclaimed in the Caſe of Criminal Judges, were much more Competent againſt Judges in Civil Matters; All the Laws Cited having a ſpecial Relation to Civil Proceſſes, and therefore our Predeceſſors in making of theſe Laws having foreſeen the Dangerous Conſequences of allowing Civil Actions to Parties, who either really were, or apprehended themſelves to be Injured. They did not place any right intereſt or Benefite to the private Parties prejudged, but on<g ref="char:EOLhyphen"/>ly that they might be Informers, or complain to the King and His Council, and obtain the Judge to be puniſhed at the Kings Pleaſure, either in his Perſon, Fame or Goods: Yet ſo as no ſhare did fall to the Party Complainer by that Proceſs, and if it were not ſo, how mi<g ref="char:EOLhyphen"/>ſerably would all the Fences and Securities of our Properties be un<g ref="char:EOLhyphen"/>hinged. for after ſuch a precedent, there would remain nothing, but to run throw the records of Council, Seſſion and Juſtice Court, and under the Notion of Damages, by the Sentences of theſe Judicatories, the Eſtates of all the Judges thereof; whoſe Sentences were afterwards Reduced or Reſcinded might be wholly exhauſted and carried away; neither could the Members of <hi>Parliament</hi> acting in a Judicative Capa<g ref="char:EOLhyphen"/>city be ſecured from the Conſequences of ſuch a Preparative.</p>
+            <p>It were unneceſſar and unfit to debate any thing, in relation to the Procedure, againſt the deceaſt Earl of <hi>Argyl,</hi> whom the Parliament hath Reſtored; But what ever Action or Complaint is competent to him, the like will be competent to all who ſhall be Reſtored by way of Juſtice; For albeit there may not appear the like clear and evi<g ref="char:EOLhyphen"/>dent Grounds for their Reſtitution, yet being Reſtored by way of Juſtice, their Forfeitures muſt be acknowledged to have been unjuſt; And no Party will be admitted to plead any point that might feem to ſupport the Juſtice of the ſentence of Forfeitures; And it were impoſ<g ref="char:EOLhyphen"/>ſible to fix and ſettle a clear Rule or Limit, which of the Reſcinded Sentences were more or leſs unjuſt; And in what caſe the Judge ſhould be lyable or Free after ſuch a Reſtitution, eſpecially where Reſtitution is by a publick Act of Parliament, without Proceſs or Cita<g ref="char:EOLhyphen"/>tion of Parties, which is equal in the Earles caſe, And all others who
+<pb n="6" facs="tcp:175225:4"/>ſhall be reſtored that way; For albeit the Heirs of the Judges be no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> called, yet there being once a Reſtitution, without calling of Parties, all Defence is now precluded in Relation to the Proceſs, which in deference to the Act of Parliament, muſt be preſumed, and plead as abſolutely Unjuſt in the ſame Terms, as it is expreſt in the Re<g ref="char:EOLhyphen"/>ſtitution.</p>
+            <p>Theſe general Grounds being premiſed, It is Anſwered for the De<g ref="char:EOLhyphen"/>fenders, 1<hi>mo:</hi> That albeit the Earl did actually Repreſent his Father as Heir and Executor, to whom he is only Appearand Heir by h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Reſtitution, and thereby hath no ſufficient Active Tittle to purſue<g ref="char:punc">▪</g> And that the Defender did Repreſent theſe Judges upon the paſſive Tittles which they deny; Yet the doom of Forefeiture can be no Probation, that theſe three Judges, or any ſingle one of them did give their Vote or Opinion, for ſuſtaining the Relevancie; But only that the Relevancy was ſuſtained by the Plurality, which does not prove that the Plurality was made up by the particular Vote or Votes of a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> One or More of theſe three Judges, which might have been by the Opinion of others, and can at moſt but conclude one of the three<g ref="char:punc">▪</g> And it cannot be diſtinguiſhed or known, which of the three was the perſon; And it is a known Principle, That <hi>Actore non probante abſol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tur reus,</hi> Neither can any Probation of their Acceſſion be ſuſtained unleſs it were proven under their own hands, or by their own a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> knowledgment, That they were Conſenting or Concurring in ſuſtai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing the Relevancie; Becauſe, albeit Witneſs could be received f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> proving of that point, which is denyed; There is none living wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can bear Teſtimony in that Matter, except two Judges with them <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſame Court And the Queſtion being, who were the Judges guilty None of them can be ſuſtained to liberate themſelves by loading o<g ref="char:EOLhyphen"/>thers; And for this cauſe, in the Tryal by an Aſſize of Error, upon th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 63: <hi>Act</hi> 8: <hi>Par: Ja:</hi> 3: It is provided, That the Aſſize ſhall be called and inquiry made at them, if they did all agree, whereby no par<g ref="char:EOLhyphen"/>ticular Aſſyſour could be ſingled out from the reſt, much leſs a g<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> fixed upon any Defunct, who was not to anſwer for himſelf.</p>
+            <p n="2">2<hi>do.</hi> Our <hi>Munieipal Laws</hi> for puniſhment of Unjuſt or Neglig<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Judges, are all in Relation to the Civil Adminiſtration of Juſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="7" facs="tcp:175225:4"/>betwixt Party and Party, and not one of them does relate to the Juſti<g ref="char:EOLhyphen"/>ces, in Criminal Mattets, and on the contrare it is evident, that by our Law, no Judges or Aſſyſours, paſſing upon a Criminal Proceſs, can undergo any puniſhment if they Condemn, but only in caſe they acquit the Pannell, and therefore there is an Aſſyſe of Error pro<g ref="char:EOLhyphen"/>vided by the ſaid 63 <hi>Act,</hi> 8. <hi>Parl. Ja.</hi> 3. In caſe the Inqueſt contrare to manifeſt knowledge, do acquit the Pannel, but no puniſhment on the other hand; And the reaſon is, becauſe the <hi>Sympathie</hi> of Humane Nature, is thought ſufficient to reſtrain both Judges and Jurors from Condemning the Innocent, and this preſumption hath ſo ſatisfied and filled the minds of the Lawgivers, that there is no Statute providing any Remedy, or Puniſhment againſt the Judge in that caſe,</p>
+            <p n="3">
+               <hi>3tio.</hi> In ſo far as the Petition is founded upon the Acts of <hi>Parliament</hi> of this Kingdom, there doth not ariſe any Inrereſt or Damnage to a Party prejudged by the Sentence of any Judicator how unjuſt ſoever, but the ſumm of all the Acts of <hi>Parliament</hi> Lybelled in relation to the Judges, amounts to this, That Unjuſt and Negligent Judges may be puniſhed by the King &amp; his Council in their Perſons, Goods or Fame, according to the quality of their Offence at the King's Pleaſure, and where ever a Party is in general appointed to be puniſhed, any Fine or Pecunial puniſhment that can be impoſed by that Law, doeth fall to the Fisk, unleſs the Law appoint a particular Application in whole or in part to the Perſon prejudged; ſo that whatever were chargeable upon the Judges at the Inſtance of the King's Majeſty, there is no Action competent at the Inſtance of any Party for a private Intereſt, or at moſt only for the Charges in Accuſing and Proſecuting the Judge, and for inſtructing this defence without repeating the ſeveral Acts of <hi>Parliament</hi> founded on, the ſame are deſired to be conſidered as they are Stated in the Bill, without the Commentaries that are affixed upon them expreſly Contrare, and Inconſiſtent therewith; And it is not pretended that any of theſe Acts, do expreſly found an Intereſt to the Party, but after a full Relation of the Acts, there is ſubjoyned a Commentary on them in theſe words; Which no doubt doth farder import the Parties damage: A rare Aſ<g ref="char:EOLhyphen"/>ſertion and well founded! that beſide the Penalties expreſt in the Act,
+<pb n="8" facs="tcp:175225:5"/>there is no doubt a farder Penalty imported thereby; and there is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more to make out this Poſition, then a bare Aſſertion, it is not u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ged from any former Practice or Precedent, for the like was never p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tended: It is not aledged that in other Laws, of this, or any other N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tion, where there is a ſpecial Penalty expreſt, or an Arbitrary pu<g ref="char:EOLunhyphen"/>niſhment at the Pleaſure of the Judge or Soveraigne; that beſide th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Special or Arbitrary puniſhment expreſt, there ſhall be a ſeparate d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtinct Penalty competent; ſo that this Poſition, upon which th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> weight of the whole Acts of <hi>Parliament</hi> cited, is founded, being wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>out the leaſt ſhaddow of Law, Reaſon, or Precedent, the co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cluſion upon it muſt fall in Conſequence; And the Defenders do up<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> good Ground conclude, that ſeing theſe Acts do not contain a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Clauſe or Proviſion in Favours of the Party Injured, That <hi>No Do<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> they do not import any ſuch Intereſt in Favours of the Party, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Aſſertion is confirmed by the Acquieſence of all, who in this <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any former Age have been Injured or Prejudged by the Sentence <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any Judicator, who have never pretended to ſuch a Redreſs; and t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Defenders Aſſertion is alſo confirmed by the Example of all <hi>Pe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Laws,</hi> which do never import any farder Penalty then what is ſpeci<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly expreſt: And without queſtion, the Earl's Claime is meerly Pe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> againſt the Heirs of the Judges, who are no ways inriched by his l<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> or any Conſequence of that Sentence.</p>
+            <p n="4">
+               <hi>4to.</hi> Albeit theſe Laws might infer a Puniſhment againſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Judges, yet the ſame being <hi>merae poenae,</hi> and falling to the Fisk, m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> be freely diſcharged by the King, which was done in this caſe, in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> far as the Sentence and Proceſs of Forfeiture, was approven by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Act of Parliament, 1685: and by the 31: Act of that Parliame<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:punc">▪</g> All the Judges of the Nation, Civil or Criminal, were indemni<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and ſecured anent their Actings in his Majeſties Service, and tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fully, as if every particular Crime and Miſdemannour were ſpecia<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> expreſt in a Remiſſion, under the Great Seal, Requiring all Jud<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to interprete the ſaid Indemnity in the moſt Ample and Favoura<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Senſe: Which Act doth fully ſecure the Judges as to any Claim, t<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> can ariſe either to the Fisk, or even to a private Party, by any Cri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or Miſdemannour Committed or Ommitted in their Office; A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="9" facs="tcp:175225:5"/>no Reſciſion of the Forfeiture can found any Action againſt the Judges who are as amply exonered, As if they had been purſued, and un<g ref="char:EOLhyphen"/>dergone the ſevereſt penalty of the Law.</p>
+            <p n="5">
+               <hi>5to.</hi> In ſo far as the Lybel is founded upon the Common Law, it does appear that the Earl has laid very little weight upon it, ſeing there is no ſpecial Citation adduced from that Law, for inferring the Concluſion; And indeed there was no reaſon to Rely upon it; For, 1: Albeit by our Cuſtomes great Recourſe be had therteo, where, we have no poſitive Law of our own; yet in this and all other caſes, where we have ſpecial Statutes, we are to be Regulate thereby, and whether the Penalties therein expreſt, be more or leſs then what is contained in the Civil Law, it is of no importance; ſo that if by theſe Special Penal Laws of this Nation, mentioned in the Bill, the Re<g ref="char:EOLhyphen"/>preſentatives of the Judges be not lyable, they cannot be ſubjected to any Puniſhment by the proviſion of the Civil Law. 2. It is true that ſeveral Texts in the Civil Law do ſubject an unjuſt Judge to ſe<g ref="char:EOLhyphen"/>vere penalties, which do diſtinguiſh two caſes, either the ſame is pro<g ref="char:EOLhyphen"/>nounced <hi>per imprudentiam,</hi> in which caſe the Judge is not ſimply lyable <hi>in eſtimationem litis,</hi> for the full dammage and intereſt. <hi>Sed in quantum Religioni judicantis viſum fuerit</hi>
+               <note n="*" place="margin">l: ult: ff. de extraord: co<g ref="char:EOLhyphen"/>quit: Inſt: de oblig: quae quaſ: ex de<g ref="char:EOLhyphen"/>lict. in prin:</note>: Or otherwiſe, the unjuſt Sentence was pronounced by fraud and corruption, in which caſe, the Judge was puniſhed in the full dammage and intereſt and infamy: But by that Law, Fraud was never preſumed<note n="*" place="margin">l: 6: C: de dolo: l: 13: § 1: ff: de pro: l: 51: ff: proſocio.</note>, So that however palpably unjuſt the ſentence did appear, yet the preſumption was for the Judge, that it was <hi>per imprudentiam aut imperitiam,</hi> unleſs there were a poſitive probation, that there was Corruption; And the Law was ſo favourable to the Judge, that it did allow him to purge himſelf of the ſuſpicion of cor<g ref="char:EOLhyphen"/>ruption by his own Oath<note n="*" place="margin">Nov: 124: cap: 2.</note>. And did further moſt ſeverely puniſh the party, who did ſlander the Judge, and ſubjected him to the pu<g ref="char:EOLhyphen"/>niſhment, to which the Judge ſhould have been lyable, ſo that the preſumption does ſtill ly for the Judge, that any Error that was com<g ref="char:EOLhyphen"/>mitted by him, was meerly <hi>per imprudentiam,</hi> and the puniſhment thereof was Arbitrary. But all Writers upon the Title, <hi>de poenis <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Judicantium,</hi> do agree that the practice generally of all Nations have
+<pb n="10" facs="tcp:175225:6"/>recede from that ſeverity expreſt in the Law ‖.<note n="†" place="margin">Perezius de poem: Jud: n: 5: Chriſtene. u: vol: 4: Deciſ: 95: n: 4: Ar<g ref="char:EOLhyphen"/>gentre ad conſuetud Britan. Art: 33: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: 4: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: Gro<g ref="char:EOLhyphen"/>enweg: de Leg. A<g ref="char:EOLhyphen"/>brog: ad Ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: Inſt: de ob: ex quaſ: del.</note>
+            </p>
+            <p>It is therefore a very injurious Cenſor and Reflection, That theſe Judges did maliciouſly co-operate with Popiſh Deſigns, in condem<g ref="char:EOLhyphen"/>ning the innocent, ſeing all of them lived and dyed without the leaſt ſuſpicion of declyning from the <hi>Proteſtant Religion,</hi> in which they were Educate; and it is the common Intereſt of Mankind, to interpret the Actions of other Men in the moſt favourable and benigne Senſe they can bear: Every Perſon who weighs Humane Frailty, <hi>And conſiders himſelf likewiſe ſubject to INFIRMITIES,</hi> ought to conſtruct all doubt<g ref="char:EOLhyphen"/>ful Actions in the beſt ſenſe, and never to preſume Malice or Fraud; no Man deſires his own Actions to be ſo conſtructed, <hi>Et quod tibi f<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> non vis, alteri ne feceris.</hi>
+            </p>
+            <p n="3">
+               <hi>3tio.</hi> The Civil Law did reſtrict all penal Actions, and did allo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſame only to be purſued againſt the perſon guilty; but there was no Action competent againſt his Heirs, except in two caſes, where either the Action had been purſued againſt the Defunct, and pro<g ref="char:EOLhyphen"/>ceeded the length of <hi>Litiſconteſtation,</hi> whereby it was no more conſi<g ref="char:EOLhyphen"/>dered as a Penal Action, but as a Civil Debt, <hi>ex quaſi contractis,</hi> or o<g ref="char:EOLhyphen"/>therwiſe, in caſe the Heretage were inriched by the Defuncts Crime<g ref="char:punc">▪</g> And in that caſe, there was only Action granted, in ſo far as the Heir was inriched, <hi>in quantum ad haeredem pervenit ut turpe lucrum extorque<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</hi> But in all other caſes, (<hi>perduellion,</hi> and the Action called in Law <hi>condictio Furtiva,</hi> only excepted) <hi>mortalitate extinguitur crimen;</hi> This is a point ſo clear, That it is beyond all Debate, being plainly expreſt by in<g ref="char:EOLhyphen"/>numerable Texts in the Civil Law, ſo fully, that there does not ari<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> any Contraverſie in that point amongſt Writers or Practitioners<note n="*" place="margin">L: un: C: ex del: def: l: 5. ff: de Ca<g ref="char:EOLhyphen"/>lum. l: 19: ff: quod moetus cauſa l: Inde ne<g ref="char:EOLhyphen"/>ratius 23: § hanc actionem ff: ad l: aquil: l: haec actio 13: ff de ſerv: Corrup. l. l: 9: § 1: ff quod falſ: tut: l: 3: § pen: ff ſi <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> falſ: mod: l: 1: de Priv: del: l: 2: § ult: ff vibon: rapt: l: inhonorariis 35: de obl: &amp; Act pupil<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Ill: § 1: de Reg: Jur: § ult: juſt. de obl: quae quaſi ex del: Inſt: de perpet: &amp; temp: Act § 1.</note>.</p>
+            <p>If then this Action be acknowledged to be a penal Action, it is c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly perſonal, and it cannot with any ſhaddow of Reaſon be contr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>verted, that the ſame is penal againſt the Judges, or their Heirs becauſe the foundation of the proceſs is the puniſhment of an alledg<g ref="char:EOLunhyphen"/>ed Fact and Deed of the Judges, whereby they nor their Heirs a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> no wayes inriched; And there are many Actions wich are not pen<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="11" facs="tcp:175225:6"/>upon the part of the Purſuer, who claims nothing but dammage and intereſt, <hi>Quod à patrimonio ſuo abeſt;</hi> And yet they are reckoned penal, becauſe in ſo far as concerns the Defender they are ſuch, his Fortune not being inriched by the Purſuers Dammage; And there<g ref="char:EOLhyphen"/>fore moſt of all the Texts, which mention penal Actions to be perſo<g ref="char:EOLhyphen"/>nal, the Examples and <hi>ſpecies facti,</hi> contained in theſe Laws are inch, as are only for Dammage and Intereſt upon the part of the Purſuer, but Penal upon the part of the Defender, as will be evident to any who ſhall conſider the Laws. And the general Rule of Lawyers in this matter, is, That <hi>Quoties actio factum punit &amp; in dolum concepta eſt,</hi> and is purſued againſt him who is not inriched by the Fraud:<note place="margin">d. l: 9: § <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: ff quod falſ. tut.</note> The Action is Penal, and not competent againſt Heirs, albeit upon the Purſuers part, it may ſeem <hi>rei perſecutoria</hi> for Damage and Intereſt *. And albeit the Law cannot enumerate every caſe, to apply the gene<g ref="char:EOLhyphen"/>ral rule to it; Yet it is particularly decided <hi>I:</hi> 16: <hi>ff: de Judiciis;</hi> That the Heir of a Judge cannot be purſued, <hi>Julianus autem in haeredem Ju<g ref="char:EOLhyphen"/>dicis, qui litem ſuam fecit, actionem competere putat, quae ſententia vera non eſt, &amp; à multis notata.</hi> And what ſhaddow of pretence can remain to purſue the Heir of a Judge, who is ſecured by innumerable Texts, upon that general ground, that no Penal Actio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is competent againſt Heirs; And by a particular expreſs Law, the Heir of a Judge is com<g ref="char:EOLhyphen"/>prehended, and hath the benefite of the other Laws, which liberate the Heirs of all Delinquents.</p>
+            <p n="4">
+               <hi>4to.</hi> As by the Civil Law, the Heir of no Delinquent could be purſued; The like holds in our practice, and by our Statutes, and for verifying of this Alledgeance, let all the Crimes which are pu<g ref="char:EOLhyphen"/>niſhable by our Law be conſidered, and ſee if any one of theſe can be inſtanced which may found an Action againſt the Heir of the Delin<g ref="char:EOLhyphen"/>quent<g ref="char:punc">▪</g> except in <hi>quantum pervenit,</hi> conform to the Civil Law; Or let the Earl condeſcend upon any Action of the like Nature, that was ever ſuſtained or acclaimed: And why is it, that our Law does re<g ref="char:EOLhyphen"/>quire a ſpecial Statute to make Treaſon puniſhable, after the death of the Traitor, by an Action againſt his Heirs? But becauſe that was a ſpeciality, wherein that Crime was differenced from all others, and all Proceſſeſs of Treaſon againſt the Heirs of Defuncts, are expreſly
+<pb n="10" facs="tcp:175225:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:175225:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:175225:8"/>founded upon the ſaid Act of <hi>Parliament,</hi> which renders it beyond D<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bate, that all other Crimes are extinguiſhed by Death. And there<g ref="char:EOLhyphen"/>fore, although Murder and Manſlaughter be amongſt the moſt odi<g ref="char:EOLhyphen"/>ous of all Crimes, and whereby frequently great dammages ariſe to the Heirs, yet there was never any action for Aſſythment, or any other effect ſuſtained, or intented againſt the Heirs of the Murder<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+            </p>
+            <p>The Earl appears to have foreſeen the inevitable force of this De<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fence, and for obviating thereof, he doth in his Bill, inſiſt upon two Acts of Parliament, <hi>viz:</hi> 49: <hi>Act Parl:</hi> 11: <hi>Ja:</hi> 6: and 69: <hi>Act</hi> 6: <hi>P<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Ja:</hi> 5: By the firſt cited of theſe, it is provided, That whoever ma<g ref="char:EOLhyphen"/>liciouſly accuſes another of Treaſon, if the Party accuſed be acquit, the Accuſer incurrs the pain of Treaſon; which in all Reaſon (as is al<g ref="char:EOLhyphen"/>leadged) ought to take place againſt theſe who maliciouſly conde<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the innocent; and thereby would pretend, that the Judges were lyabl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be puniſhed as Traitors. And by the other Act of King <hi>James</hi> the Fifth, it is provided, That proceſs of Treaſon may be purſued again<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Heirs of the Traitor; but the Earl of his meer bounty, does re<g ref="char:EOLhyphen"/>ſtrict the effect thereof to Reſtitution.</p>
+            <p>To theſe pretences it is Anſwered, that it was a rare ſtreach of In<g ref="char:EOLhyphen"/>vention, to find out an Argument from theſe Laws againſt the Judge or their Heirs, to make them lyable according to the deſire of the Pe<g ref="char:EOLhyphen"/>tition, and to which the Earl was driven by the view of the Obvious and Unanſwerable Defences above written, eſpecially, <hi>That all crimes are extinguiſhe dby death;</hi> therefore it was neceſſary that this Crime ſhould be Screwed up to the pitch of Treaſon, that the Heirs might become lyable, and in effect Forfeited by a greater Streach then the forme<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>It is then to be conſidered by what Reaſon this pretence can be ſup<g ref="char:EOLhyphen"/>ported, which muſt neceſſarly bear the weight of the whole Claim<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> And <hi>Imo.</hi> it is uncontraverted that <hi>Penal Statutes</hi> are not to be be ex<g ref="char:EOLhyphen"/>tended <hi>de Caſu in Caſum</hi>
+               <note n="*" place="margin">L: 42: ff: de poen: l: 19: ff: de lib: &amp; poſthum: haered: inſtit.</note>, and tho the Law affix a great Penalty to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſmal Crime, it is to be inflicted, <hi>licet durum fit, quia ita Lex ſcripſit.</hi> B<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to pretend from thence that every Crime as Heighnous of its o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Nature, or having any Reſemblance to that which is expreſt, ſhou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be puniſhed by the ſame ſeverity, is ſuch a Notion, as never former<g ref="char:EOLhyphen"/>ly entered into the Head of any Lawyer; this were indeed to rende<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="13" facs="tcp:175225:8"/>every Man uncertain in his Life or Eſtate, and to make our <hi>Penal Laws</hi> altogether Arbitrary at the Apprehenſion of every Judge, accor<g ref="char:EOLhyphen"/>ding to his Opinion and Eſtimation of the Crimes Lybelled. <hi>2do.</hi> There can hardly be two Crimes, having leſs of Parity or Reſem<g ref="char:EOLhyphen"/>blance one to another, then that of a <hi>Malicious Accuſer</hi> with an unjuſt Judge: What Parallel can be imagined betwixt theſe two? A <hi>Mali<g ref="char:EOLhyphen"/>cious Accuſer</hi> is a Perſon who Offlciouſly, and Unneceſſarly obtrudes himſelf to Proſecute a Perſon for his Life and fortune; a <hi>Judge</hi> is bound by the Neceſſity of his Office to give a Sentence, which tho it may be found Unjuſt; yet it is preſumed to be <hi>per Impertiam, out Im<g ref="char:EOLhyphen"/>prudentiam,</hi> and not by his Malice, Fraud or Corruption, as is above mentioned: And that which is mainly conſidered in that Statute, is the Officiouſneſs of the Accuſer of an Innocent Perſon, and therefore tho His Majeſties Advocate ſhould proſecute a party with Rigour, it is not underſtood Malice, becauſe he is in his Duty or Office, ſo the Judge deciding, is in his Office, but the Fault is a Miſcariage: Which in all Law is eſteemed to be an Errour in his judgement; For by the <hi>Novel Conſtitutions,</hi> a Judge was only bound by his Oath <hi>de Fi<g ref="char:EOLhyphen"/>deli,</hi> to ſwear that he ſhould decide <hi>ſecuudum, quod illi viſum fuerit juſtius &amp; melius,</hi> and its from that Reaſon that the Cuſtom of all Nations have exeemed Judges from any Proceſs, upon their Sentences; except in the caſe of Fraud, or Corruption; <hi>Arth: Hodie C: de Judiciis.</hi>
+            </p>
+            <p n="3">
+               <hi>3tio.</hi> Let it now be ſuppoſed that the imaginary Parallel betwixt the Judge and Officious Accuſer, could ſubſiſt, which is impoſſible, yet that could found no Action againſt the Heir of the Judge, upon King <hi>James</hi> the Fifths Act, for that Act does only mention the caſe of <hi>Laſe-Majeſty;</hi> And does provide that proceſſes of Treaſon might be pur<g ref="char:EOLhyphen"/>ſued againſt Heirs, conform to the Common Law, ſo that it muſt be conſidered, what was provided by the Common Law, as to put<g ref="char:EOLhyphen"/>ſutes of Treaſon, againſt the Heirs of the Traitor: It is true that both the Civil Law, and Ours, do recede from the general Rule, That all crimes are extinguiſhed by Death; In the ſpecial caſe of <hi>Laeſe Ma<g ref="char:EOLhyphen"/>jeſty,</hi> but neither of theſe do Authorize proceſſes to be purſued againſt the Heir upon Statutory Treaſon, as is clear by the laſt Law, <hi>ff<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d legem Juliam majeſtatis. Is qui in reatu decedit integri ſtatus deced <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ex<g ref="char:EOLhyphen"/>tinguitur
+<pb n="14" facs="tcp:175225:9"/>enim crimen mortalitate, niſi fortè quis majeſtatis reus fuit, hoc crimine, niſi à ſucceſſeribus purgetur, haereditas Fiſco vindicatur, non quiſquis legis Juliae majeſtatis reus eſt, in eadem conditione eſt, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> perduellionis reus eſt, hoſtili animo adverſus rempublicam vel principem a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> tus caeterum ſi quis ex aliâ cousâ legis Juliae majeſtatis reus ſit, mor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mine liberatur.</hi> By which it Appears plainly, that every Treaſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not competent to be purſued againſt the Heir of the Traitor; that which is ſpecially called <hi>Laeſe-Majeſty,</hi> or <hi>Perduellion,</hi> again<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> King or Common-wealth; But all other kinds of Treaſon, ſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Statute againſt Falſe Accuſers, are extinguiſhed by Death.</p>
+            <p n="4">
+               <hi>4to.</hi> But even ſuppoſe alſo, that as the Crime lybelled were Tre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſo the purſut were Competent againſt the Heirs, what Intereſt ariſe to the Earl of <hi>Argyl</hi> by this means, the King's Majeſtie <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> indeed purſue a Forfeiture, and Gift it to the Earl; but ſuch n<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Proceſſeſs are not ſo much in Vogue, but by what pretence th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhould by a ſeeming Condeſcendence Reſtrict the Claime of P<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ture to Damage and Intereſt, paſſes all underſtanding, for if Tr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> be Incurred, the Action ariſes not to the Earl, nor can Dama<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> purſued by him upon that Ground, that the Heirs are liable as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Caſe of Treaſon, and after all the Earls pretended Bounty i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtricting the Lybel, is wholly unprofitable to the Heirs, the I <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ges Acclaimed being far beyond the Value of the Defunct<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> whole Eſtates.</p>
+            <p>
+               <hi>It is therefore Humbly and Confidently expected from the Wiſdom a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtice of the</hi> High Court of Parliament; <hi>That no Counten<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Incouragement will be given to the ſtreached pretences in the Claime, which are deſtitute of all Foundation in Law</hi> Civil <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nicipal, <hi>and without Example; And which carry along more <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ning Conſequences to the Fame and Reputation of Judges who<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Honour and Credit, to the Eſtates of their Innocent Heirs, and Lives and Fortunes of ſuch as are Alive, then ever was pointed any former Caſe, in this, or any other Nation, under the Sun.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
